@@ -14,24 +14,23 @@ This portfolio is designed to demonstrate skills in:
 
 This template is set up to showcase your best work. You can easily customize the project cards in the `index.html` file.
 
-### Project Title One
-*A brief description of your project, the tools used, and the key insights derived.*
+### Online Retail Data Analysis (SQL Project)
+This project analyzes an e-commerce retail dataset to uncover customer behavior, product performance, and revenue trends. The dataset comes from the UCI Online Retail dataset . Goal: Showcase SQL querying, cleaning, and data exploration skills, while deriving actionable insight
 
-### Project Title Two
-*A brief description of your project, the tools used, and the key insights derived.*
+### Titanic Survival Prediction – Data Cleaning & EDA
+This project analyzes the Titanic passenger dataset to demonstrate data cleaning and exploratory data analysis (EDA). The dataset contains demographic and travel information of Titanic passengers, with the target variable being survival. 
 
-### Project Title Three
-*A brief description of your project, the tools used, and the key insights derived.*
+
 
 
 ## 🛠️ Skills
 
 Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+- **Data Visualization**: Power BI.
+- **Data Analysis**: SQL, Python (Pandas), Excel, etc.
+- **Data Modeling**: Power Query, DAX,  etc.
+
 
 ## 💡 How to Use This Template
 
